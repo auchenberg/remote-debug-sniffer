@@ -1,0 +1,15 @@
+{
+  "name": "remote-debug-sniffer",
+  "version": "1.0.0",
+  "description": "Tool to sniff CDP traffic and output it to the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Auchenberg <kenneth@auchenberg.dk>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "chrome-remote-interface": "^0.24.5"
+  }
+}
